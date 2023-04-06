@@ -1,0 +1,24 @@
+{
+  "name": "mysql_employee_tracker",
+  "version": "1.0.0",
+  "description": "This Repository contains code that will be able to manage a company's employee database.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ervin543/MySQL_Employee_Tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ervin543/MySQL_Employee_Tracker/issues"
+  },
+  "homepage": "https://github.com/Ervin543/MySQL_Employee_Tracker#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.2.0"
+  }
+}
