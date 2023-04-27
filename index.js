@@ -1,6 +1,6 @@
 const inquirer = require('inquirer');
 const db = require('./db/connection');
-
+menu()
 function menu() {
     inquirer.prompt([
         {
