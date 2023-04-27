@@ -4,6 +4,7 @@
   "description": "This Repository contains code that will be able to manage a company's employee database.",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,6 +19,7 @@
   },
   "homepage": "https://github.com/Ervin543/MySQL_Employee_Tracker#readme",
   "dependencies": {
+    "console.table": "^0.10.0",
     "inquirer": "^8.2.4",
     "mysql2": "^3.2.0"
   }
