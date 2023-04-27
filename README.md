@@ -3,13 +3,13 @@ This Repository contains code that will be able to manage a company's employee d
 
 # Images
 
-![This is the Index.js 1](index_js_1.PNG)
-![This is the Index.js 2](index_js_2.PNG)
-![This is the Index.js 3](index_js_3.PNG)
-![This is theIndex.js 4](index_js_4.PNG)
-![This is the Connection.js](connection_js.PNG)
-![This is the Schema.sql](schema_sql.PNG)
-![This is the Seed.sql](seed_sql.PNG)
+![This is the Index.js 1](images/index_js_1.PNG)
+![This is the Index.js 2](images/index_js_2.PNG)
+![This is the Index.js 3](images/index_js_3.PNG)
+![This is theIndex.js 4](images/index_js_4.PNG)
+![This is the Connection.js](images/connection_js.PNG)
+![This is the Schema.sql](images/schema_sql.PNG)
+![This is the Seed.sql](images/seed_sql.PNG)
 
 # Links 
 
